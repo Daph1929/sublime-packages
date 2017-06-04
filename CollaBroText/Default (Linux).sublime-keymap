@@ -1,0 +1,7 @@
+[
+
+{ "keys": ["alt+x"], "command": "close_layout"},
+
+{ "keys": ["alt+d"], "command": "add_thread_comment"}
+
+]
